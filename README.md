@@ -21,6 +21,7 @@
 <br>
 
 - 📚 Cursando Tec.inf
-- 🔭 Hoje eu trabalho em projeto pessoal 
-- 🌱 Estudando Python 
+- 🔭 Trabalhando em projeto pessoal 
+- 🌱 Estudando Python
+- 👨‍💻 Estagiando como Técnico de TI
 
