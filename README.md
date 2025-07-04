@@ -17,6 +17,8 @@
 <br/>
 <br>
 
+<hr>
+
 - 🎓 Graduando em Sistemas de Informação
 - 🔭 Trabalhando em projeto pessoal 
 - 🐧 Estudando Linux
