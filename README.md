@@ -19,8 +19,8 @@
 <br/>
 <br>
 
-- 📚 Cursando Tec.inf
+- 🎓 Graduando em Sistemas de Informação
 - 🔭 Trabalhando em projeto pessoal 
-- 🌱 Estudando Python
-- 👨‍💻 Estagiando como Técnico de TI
+- 🌱 Estudando Linux
+- 👨‍💻 Atuando como Jovem Aprendiz de TI
 
