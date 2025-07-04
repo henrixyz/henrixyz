@@ -1,7 +1,9 @@
 ### Olá! bem-vindo ao meu perfil 👋
 <br>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/henrique-oliveira-xyz/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-oliveira-xyz/)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ihenriq.z?igsh=MW50N29pNzJoaXp1Ng==)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrixyz&hide_progress=true&show_icons=True&theme=dracula)
