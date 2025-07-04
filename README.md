@@ -1,4 +1,4 @@
-### Olá! bem-vindo ao meu perfil 👋😳
+### Olá! bem-vindo ao meu perfil 👋
 <br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ihenriq.z?igsh=MW50N29pNzJoaXp1Ng==)
