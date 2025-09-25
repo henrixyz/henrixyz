@@ -22,5 +22,5 @@
 - 🎓 Graduando em Sistemas de Informação
 - 🔭 Trabalhando em projeto pessoal 
 - 🐧 Estudando Linux
-- 👨‍💻 Atuando como Jovem Aprendiz de TI
+
 
