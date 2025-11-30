@@ -3,8 +3,6 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-oliveira-xyz/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrixyz&hide_progress=true&show_icons=True&theme=dracula)
-
 ### Tecnologias que eu utilizo no meu dia
 
 <div style="display: inline_block"><br/>
