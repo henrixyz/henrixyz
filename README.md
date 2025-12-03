@@ -19,6 +19,6 @@
 
 - 🎓 Graduando em Sistemas de Informação
 - 🔭 Trabalhando em projeto pessoal 
-- 🐧 Estudando Linux
+- 📖 Lendo "Don't Make Me Think"
 
 
